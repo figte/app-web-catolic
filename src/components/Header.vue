@@ -7,7 +7,7 @@ import Navbar from '../components/Navbar.vue'
     <!--  header start  -->
     <header id="top-section">
       <div class="container-fluid ">
-        <div class="col-sm-4 hidden-xs address">
+        <div class="col-sm-4 hidden-xs address ">
           <div class="pull-left">
             <ul>
               <li><i class="fa fa-phone"></i> +880 1710-000-000</li>

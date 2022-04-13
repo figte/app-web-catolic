@@ -2,6 +2,68 @@
 <script setup>
 import UpcomingEvent from './UpcomingEvent.vue';
 
+// import '/public/assets/js/masterslider.min.js'
+
+ (function ($) {
+      "use strict";
+
+      $(function () {
+        var masterslider_8dad = new MasterSlider();
+
+        // slider controls
+        masterslider_8dad.control('bullets', {
+          autohide: true, 
+          overVideo: true,
+          dir: 'h',
+          align: 'bottom',
+          space: 6,
+          margin: 10
+        });
+        // slider setup
+        masterslider_8dad.setup("MS5614c1d9c8dad", {
+          width: 1170,
+          height: 730,
+          minHeight: 0,
+          space: 0,
+          start: 1,
+          grabCursor: true,
+          swipe: true,
+          mouse: false,
+          keyboard: false,
+          layout: "fullwidth",
+          wheel: false,
+          autoplay: true,
+          instantStartLayers: false,
+          loop: false,
+          shuffle: false,
+          preload: 1,
+          heightLimit: true,
+          autoHeight: false,
+          smoothHeight: true,
+          endPause: false,
+          overPause: false,
+          fillMode: "fill",
+          centerControls: true,
+          startOnAppear: false,
+          layersMode: "center",
+          autofillTarget: "",
+          hideLayers: false,
+          fullscreenMargin: 0,
+          speed: 100,
+          dir: "h",
+          // parallaxMode: 'mouse',
+          view: "fade"
+        });
+
+
+
+        $("head").append("<link rel='stylesheet' id='ms-fonts'  href='//fonts.googleapis.com/css?family=Roboto:900,regular,700|Yellowtail:regular' type='text/css' media='all' />");
+
+        window.masterslider_instances = window.masterslider_instances || [];
+        window.masterslider_instances.push(masterslider_8dad);
+      });
+
+    })(jQuery);
 </script>
 
 <template>
@@ -22,10 +84,10 @@ import UpcomingEvent from './UpcomingEvent.vue';
                   >
                     <div class="ms-slide" data-delay="8" data-fill-mode="fill">
                       <img
-                        src="/src/assets/images/blank.gif"
+                        src="/assets/images/blank.gif"
                         alt=""
                         title=""
-                        data-src="/src/assets/images/09/bg-Church.png"
+                        data-src="/assets/images/09/banner1.png"
                       />
                       <a
                         href="#"
@@ -106,8 +168,8 @@ import UpcomingEvent from './UpcomingEvent.vue';
                       </div>
                       <img
                         class="ms-layer"
-                        src="/src/assets/images/blank.gif"
-                        data-src="/src/assets/images/09/layer1.png"
+                        src="/assets/images/blank.gif"
+                        data-src="/assets/images/09/layer1.png"
                         alt=""
                         style=""
                         data-effect="t(true,0,151,602,n,n,n,n,n,n,n,n,n,n,n)"
@@ -125,8 +187,8 @@ import UpcomingEvent from './UpcomingEvent.vue';
                       />
                       <img
                         class="ms-layer"
-                        src=" /src/assets/images/blank.gif"
-                        data-src="/src/assets/images/09/elemenat1.png"
+                        src=" /assets/images/blank.gif"
+                        data-src="/assets/images/09/elemenat1.png"
                         alt=""
                         style=""
                         data-effect="t(true,0,151,602,n,n,n,n,n,n,n,n,n,n,n)"
@@ -147,10 +209,10 @@ import UpcomingEvent from './UpcomingEvent.vue';
 
                     <div class="ms-slide" data-delay="8" data-fill-mode="fill">
                       <img
-                        src=" /src/assets/images/blank.gif"
+                        src=" /assets/images/blank.gif"
                         alt=""
                         title=""
-                        data-src="/src/assets/images/09/churnch-bg-2.jpg"
+                        data-src="/assets/images/09/churnch-bg-2.jpg"
                       />
                       <a
                         href="#"
@@ -236,15 +298,15 @@ import UpcomingEvent from './UpcomingEvent.vue';
 
                     <div class="ms-slide" data-delay="8" data-fill-mode="fill">
                       <img
-                        src="/src/assets/images/blank.gif"
+                        src="/assets/images/blank.gif"
                         alt=""
                         title=""
-                        data-src=" /src/assets/images/09/churnch-bg-3.jpg"
+                        data-src=" /assets/images/09/churnch-bg-3.jpg"
                       />
                       <img
                         class="ms-layer"
-                        src="/src/assets/images/blank.gif"
-                        data-src="/src/assets/images/09/element2.png"
+                        src="/assets/images/blank.gif"
+                        data-src="/assets/images/09/element2.png"
                         alt=""
                         style=""
                         data-effect="t(true,n,150,n,n,n,n,n,n,n,n,n,n,n,n)"
@@ -345,4 +407,5 @@ import UpcomingEvent from './UpcomingEvent.vue';
 
 <style>
 
+    @import '@/assets/css/masterslider.main.css';
 </style>
