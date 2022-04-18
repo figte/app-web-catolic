@@ -21,7 +21,7 @@
                       <img
                         width="300"
                         height="206"
-                        src=" /src/assets/images/09/gallery271-300x206.jpg"
+                        src=" /assets/images/09/gallery271-300x206.jpg"
                         class="attachment-medium wp-post-image"
                         alt="gallery27"
                       />
@@ -53,7 +53,7 @@
                         <p class="col-md-2 col-xs-2 comments-share">
                           <span class="cmnt"
                             ><i class="fa fa-comments-o"></i>
-                            <a href=" /src/assets/index-1.htm?p=1#comments">10</a></span
+                            <a href=" /assets/index-1.htm?p=1#comments">10</a></span
                           >
                           <i class="fa fa-share-alt">
                             <span class="social-button">
@@ -120,7 +120,7 @@
                       <img
                         width="300"
                         height="206"
-                        src=" /src/assets/images/09/event5-300x206.jpg"
+                        src=" /assets/images/09/event5-300x206.jpg"
                         class="attachment-medium wp-post-image"
                         alt="event5"
                       />
@@ -214,7 +214,7 @@
                       <img
                         width="300"
                         height="206"
-                        src=" /src/assets/images/09/event4-300x206.jpg"
+                        src=" /assets/images/09/event4-300x206.jpg"
                         class="attachment-medium wp-post-image"
                         alt="event4"
                       />
@@ -409,7 +409,7 @@
                       </div>
                       <div class="sunrise col-md-6">
                         <div class="col-md-5">
-                          <img src=" /src/assets/images/sun.png" alt="sunrise" />
+                          <img src=" /assets/images/sun.png" alt="sunrise" />
                         </div>
                         <div class="col-md-7">
                           <h2>SUNRISE</h2>
@@ -418,7 +418,7 @@
                       </div>
                       <div class="sunrise sunset col-md-6">
                         <div class="col-md-5">
-                          <img src=" /src/assets/images/sun2.png" alt="sunset" />
+                          <img src=" /assets/images/sun2.png" alt="sunset" />
                         </div>
                         <div class="col-md-7">
                           <h2>SUNSET</h2>

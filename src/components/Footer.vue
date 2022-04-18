@@ -6,7 +6,7 @@
             <div class="col-md-3">
               <h2 class="widget-title">About Peace</h2>
               <div class="textwidget">
-                <img src="/src/assets/images/09/Untitled-1.jpg" alt="about-place" />
+                <img src="/assets/images/09/Untitled-1.jpg" alt="about-place" />
                 <br />
                 <br />
                 Dramatically strategize economically sound action items for
@@ -122,7 +122,7 @@
                   <img
                     width="150"
                     height="150"
-                    src="/src/assets/images/09/02-150x150.jpg"
+                    src="/assets/images/09/02-150x150.jpg"
                     class="attachment-thumbnail wp-post-image"
                     alt="02"
                   />
@@ -139,7 +139,7 @@
                   <img
                     width="150"
                     height="150"
-                    src="/src/assets/images/09/03-150x150.jpg"
+                    src="/assets/images/09/03-150x150.jpg"
                     class="attachment-thumbnail wp-post-image"
                     alt="03"
                   />
@@ -156,7 +156,7 @@
                   <img
                     width="150"
                     height="150"
-                    src="/src/assets/images/09/01-150x150.jpg"
+                    src="/assets/images/09/01-150x150.jpg"
                     class="attachment-thumbnail wp-post-image"
                     alt="01"
                   />
@@ -217,7 +217,7 @@
             <div class="clearfix"></div>
             <div class="logo text-center">
               <a href="#"
-                ><img src=" /src/assets/images/09/logo.png" alt="Peace"
+                ><img src=" /assets/images/09/logo.png" alt="Peace"
               /></a>
             </div>
             <!-- /.logo -->

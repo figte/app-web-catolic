@@ -17,7 +17,7 @@
                     <img
                       width="150"
                       height="150"
-                      src=" /src/assets/images/09/gallery26-150x150.jpg"
+                      src=" /assets/images/09/gallery26-150x150.jpg"
                       class="attachment-thumbnail wp-post-image"
                       alt="gallery26"
                     />
@@ -57,7 +57,7 @@
                     <img
                       width="150"
                       height="150"
-                      src=" /src/assets/images/09/sermons1-150x150.jpg"
+                      src=" /assets/images/09/sermons1-150x150.jpg"
                       class="attachment-thumbnail wp-post-image"
                       alt="sermons1"
                     />
@@ -98,7 +98,7 @@
                     <img
                       width="150"
                       height="150"
-                      src=" /src/assets/images/09/sermons2-150x150.jpg"
+                      src=" /assets/images/09/sermons2-150x150.jpg"
                       class="attachment-thumbnail wp-post-image"
                       alt="sermons2"
                     />
@@ -139,7 +139,7 @@
                     <img
                       width="150"
                       height="150"
-                      src=" /src/assets/images/09/personimg03-150x150.jpg"
+                      src=" /assets/images/09/personimg03-150x150.jpg"
                       class="attachment-thumbnail wp-post-image"
                       alt="sermons1"
                     />

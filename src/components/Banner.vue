@@ -407,5 +407,5 @@ import UpcomingEvent from './UpcomingEvent.vue';
 
 <style>
 
-    @import '@/assets/css/masterslider.main.css';
+  /*  @import '/assets/css/masterslider.main.css';*/
 </style>

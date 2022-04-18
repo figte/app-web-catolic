@@ -26,7 +26,7 @@
                                     <img
                                       width="401"
                                       height="401"
-                                      src="/src/assets/images/09/02.jpg"
+                                      src="/assets/images/09/02.jpg"
                                       class="attachment-post_img wp-post-image"
                                       alt="02"
                                     />
@@ -76,7 +76,7 @@
                                     <img
                                       width="958"
                                       height="958"
-                                      src=" /src/assets/images/09/03.jpg"
+                                      src=" /assets/images/09/03.jpg"
                                       class="attachment-post_img wp-post-image"
                                       alt="03"
                                     />
@@ -126,7 +126,7 @@
                                     <img
                                       width="600"
                                       height="600"
-                                      src=" /src/assets/images/09/01.jpg"
+                                      src=" /assets/images/09/01.jpg"
                                       class="attachment-post_img wp-post-image"
                                       alt="01"
                                     />
@@ -182,7 +182,7 @@
                                     <img
                                       width="660"
                                       height="660"
-                                      src=" /src/assets/images/09/05.jpg"
+                                      src=" /assets/images/09/05.jpg"
                                       class="attachment-post_img wp-post-image"
                                       alt="05"
                                     />
@@ -265,13 +265,13 @@
                                 <img
                                   width="300"
                                   height="300"
-                                  src=" /src/assets/images/c3.jpeg"
+                                  src=" /assets/images/c3.jpeg"
                                   class="attachment-shop_catalog wp-post-image"
                                   alt="cd_6_angle"
                                 />
                               </a>
                               <a
-                                href=" /src/assets/images/c3.jpeg"
+                                href=" /assets/images/c3.jpeg"
                                 class="quick-view boxer"
                                 title="Woo Single #2"
                               >
@@ -320,13 +320,13 @@
                                 <img
                                   width="300"
                                   height="300"
-                                  src=" /src/assets/images/c1.jpg"
+                                  src=" /assets/images/c1.jpg"
                                   class="attachment-shop_catalog wp-post-image"
                                   alt="cd_5_angle"
                                 />
                               </a>
                               <a
-                                href=" /src/assets/images/c1.jpg"
+                                href=" /assets/images/c1.jpg"
                                 class="quick-view boxer"
                                 title="Lorem ipsum dolor."
                               >
@@ -377,13 +377,13 @@
                                 <img
                                   width="300"
                                   height="300"
-                                  src=" /src/assets/images/c2.jpg"
+                                  src=" /assets/images/c2.jpg"
                                   class="attachment-shop_catalog wp-post-image"
                                   alt="cd_4_angle"
                                 />
                               </a>
                               <a
-                                href=" /src/assets/images/c2.jpg"
+                                href=" /assets/images/c2.jpg"
                                 class="quick-view boxer"
                                 title="Woo Single #1"
                               >

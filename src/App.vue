@@ -18,9 +18,9 @@ import { RouterLink, RouterView } from 'vue-router'
 <style>
 /*@import '@/assets/base.css';*/
 
-    @import '@/assets/css/bootstrap.min.css';
-    @import '@/assets/css/font-awesome.min.css';
-    @import '@/assets/css/theme-style.css';
-    @import '@/assets/css/style.css';
+   /* @import '/assets/css/bootstrap.min.css';
+    @import '/assets/css/font-awesome.min.css';
+    @import '/assets/css/theme-style.css';
+    @import '/assets/css/style.css';*/
 
 </style>

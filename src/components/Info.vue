@@ -6,7 +6,7 @@
             <div class="content-wrapper">
               <div class="about-us">
                 <div class="service-person">
-                  <img src="/src/assets/images/09/personimg03.jpg" alt="" />
+                  <img src="/assets/images/09/personimg03.jpg" alt="" />
 
                   <div class="person-details">
                     <h1>Deniyel Murchi</h1>
